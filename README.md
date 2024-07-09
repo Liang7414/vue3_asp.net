@@ -1,35 +1,5 @@
-# vue3_asp.net
+# 投票系統後端(從node.js轉成asp.net web api)
 
-This template should help get you started developing with Vue 3 in Vite.
+功能都跟使用vue3+node.js相同，只差在後端是使用asp.net
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+附上原系統連結:https://github.com/Liang7414/vue3_project
