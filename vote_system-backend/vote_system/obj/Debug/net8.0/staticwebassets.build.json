@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1ZqszfcFq1l6aDeBqWR0mnAUqEs1BffKR7ehl2rWqzQ=",
+  "Source": "vote_system",
+  "BasePath": "_content/vote_system",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

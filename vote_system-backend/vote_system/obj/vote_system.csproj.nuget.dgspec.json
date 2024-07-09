@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\vue3_asp.net\\vote_system\\vote_system\\vote_system.csproj": {}
+    "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\vote_system.csproj": {}
   },
   "projects": {
-    "E:\\vue3_asp.net\\vote_system\\vote_system\\vote_system.csproj": {
+    "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\vote_system.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\vue3_asp.net\\vote_system\\vote_system\\vote_system.csproj",
+        "projectUniqueName": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\vote_system.csproj",
         "projectName": "vote_system",
-        "projectPath": "E:\\vue3_asp.net\\vote_system\\vote_system\\vote_system.csproj",
+        "projectPath": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\vote_system.csproj",
         "packagesPath": "C:\\Users\\a9603\\.nuget\\packages\\",
-        "outputPath": "E:\\vue3_asp.net\\vote_system\\vote_system\\obj\\",
+        "outputPath": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

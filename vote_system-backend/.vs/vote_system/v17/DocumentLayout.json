@@ -1,18 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\vue3_asp.net\\vote_system\\",
+  "WorkspaceRootPath": "E:\\vue3_asp.net\\vote_system-backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system\\vote_system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system-backend\\vote_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system\\vote_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system-backend\\vote_system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system-backend\\vote_system\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system-backend\\vote_system\\models\\loginmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\models\\loginmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system-backend\\vote_system\\models\\votemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\models\\votemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system-backend\\vote_system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system-backend\\vote_system\\vote_system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\vote_system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system-backend\\vote_system\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system-backend\\vote_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system\\vote_system\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\models\\usermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|e:\\vue3_asp.net\\vote_system-backend\\vote_system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E58BB619-7863-49FF-8918-2285819988FA}|vote_system\\vote_system.csproj|solutionrelative:vote_system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +50,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system\\vote_system\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "vote_system\\Controllers\\AuthController.cs",
-              "ToolTip": "E:\\vue3_asp.net\\vote_system\\vote_system\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "vote_system\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCAAAAANAAAA",
+              "DocumentIndex": 3,
+              "Title": "LoginModels.cs",
+              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Models\\LoginModels.cs",
+              "RelativeDocumentMoniker": "vote_system\\Models\\LoginModels.cs",
+              "ToolTip": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Models\\LoginModels.cs",
+              "RelativeToolTip": "vote_system\\Models\\LoginModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T04:35:08.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoteController.cs",
+              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Controllers\\VoteController.cs",
+              "RelativeDocumentMoniker": "vote_system\\Controllers\\VoteController.cs",
+              "ToolTip": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Controllers\\VoteController.cs",
+              "RelativeToolTip": "vote_system\\Controllers\\VoteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:52:34.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "vote_system\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "vote_system\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-06T04:37:41.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system\\vote_system\\Program.cs",
-              "RelativeDocumentMoniker": "vote_system\\Program.cs",
-              "ToolTip": "E:\\vue3_asp.net\\vote_system\\vote_system\\Program.cs",
-              "RelativeToolTip": "vote_system\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T04:36:19.185Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\appsettings.json",
+              "RelativeDocumentMoniker": "vote_system\\appsettings.json",
+              "ToolTip": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\appsettings.json",
+              "RelativeToolTip": "vote_system\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T06:58:20.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserModels.cs",
-              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system\\vote_system\\Models\\UserModels.cs",
-              "RelativeDocumentMoniker": "vote_system\\Models\\UserModels.cs",
-              "ToolTip": "E:\\vue3_asp.net\\vote_system\\vote_system\\Models\\UserModels.cs",
-              "RelativeToolTip": "vote_system\\Models\\UserModels.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "DocumentIndex": 4,
+              "Title": "VoteModel.cs",
+              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Models\\VoteModel.cs",
+              "RelativeDocumentMoniker": "vote_system\\Models\\VoteModel.cs",
+              "ToolTip": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Models\\VoteModel.cs",
+              "RelativeToolTip": "vote_system\\Models\\VoteModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T04:35:08.192Z",
+              "WhenOpened": "2024-07-07T07:11:36.561Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "vote_system\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Properties\\launchSettings.json",
+              "RelativeToolTip": "vote_system\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T08:39:00.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vote_system.http",
+              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\vote_system.http",
+              "RelativeDocumentMoniker": "vote_system\\vote_system.http",
+              "ToolTip": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\vote_system.http",
+              "RelativeToolTip": "vote_system\\vote_system.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-07T09:03:20.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "vote_system\\WeatherForecast.cs",
+              "ToolTip": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\WeatherForecast.cs",
+              "RelativeToolTip": "vote_system\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T08:26:34.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Program.cs",
+              "RelativeDocumentMoniker": "vote_system\\Program.cs",
+              "ToolTip": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\Program.cs",
+              "RelativeToolTip": "vote_system\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T04:36:19.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "vote_system\\appsettings.Development.json",
+              "ToolTip": "E:\\vue3_asp.net\\vote_system-backend\\vote_system\\appsettings.Development.json",
+              "RelativeToolTip": "vote_system\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T08:44:24.486Z"
             }
           ]
         }
